@@ -13,7 +13,8 @@ SimpleBuilder it is getx widget work very good with notifier and SimpleValue
 with this we could do that
 
 any dart file
-final count = 0.notifier;
+
+        final count = 0.notifier;
 
 then inside our widget
 
