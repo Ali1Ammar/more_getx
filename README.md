@@ -1,11 +1,12 @@
 # more_getx
 GetBuilderC : this simple version of GetBuilder but take controller directly not using Get.find so also remove all ids properts
 
-SimpleGetxController , it is simple of GetxController that just have update functonillty used ofr SimpleValue below
+SimpleGetxController , it is simple of GetxController that just have update functonillty so remove DisposableInterface and all ids function , used for SimpleValue below
 
-SimpleValue : it is take one value and wrrapes it around SimpleGetxController like(Value forGetxController) using getert and setter
+SimpleValue : it is take one value and wrrapes it around SimpleGetxController like(Value for GetxController) using getter and setter
 
 notifier extensions : like 0.obs but for SimpleValue like that 0.notifier
+
 __________________________________________________-
 SimpleBuilder it is getx widget work very good with notifier and SimpleValue
 
