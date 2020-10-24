@@ -7,7 +7,8 @@ SimpleValue : it is take one value and wrrapes it around SimpleGetxController li
 
 notifier extensions : like 0.obs but for SimpleValue like that 0.notifier
 
-__________________________________________________-
+__________________________________________________
+
 SimpleBuilder it is getx widget work very good with notifier and SimpleValue
 
 
